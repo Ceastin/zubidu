@@ -1,4 +1,5 @@
-# Zubidu 
+![Zubi Exited Begin](https://raw.githubusercontent.com/Ceastin/zubidu/main/frontend/public/zubi-exited-begin.gif)
+### Zubidu
 
 <img width="2752" height="1536" alt="Gemini_Generated_Image_afsjvtafsjvtafsj (1)" src="https://github.com/user-attachments/assets/8ef941cf-f098-4386-9e1e-157338a1f9a1" />
 
