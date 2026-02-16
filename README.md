@@ -40,20 +40,20 @@ It features a clear separation between **backend** (server-side logic, APIs) and
 
 ## Project Structure
 zubidu/
-├── backend/                # Server, APIs, business logic
-│   ├── src/                # (planned) source code
-│   ├── package.json        # (add when initializing)
-│   └── ...
-├── frontend/               # Client-side UI & logic
-│   ├── public/             # Static assets
-│   ├── src/                # Components, pages, styles
-│   ├── index.html
-│   └── package.json
-├── assets/                 # Logos, banners, images (create this folder)
-├── diagrams/               # Architecture diagrams (create when needed)
-├── screenshots/            # UI snapshots for README
-├── .gitignore
-└── README.md               # ← You are here
+   ├── backend/                # Server, APIs, business logic
+   │   ├── src/                # (planned) source code
+   │   ├── package.json        # (add when initializing)
+   │   └── ...
+   ├── frontend/               # Client-side UI & logic
+   │   ├── public/             # Static assets
+   │   ├── src/                # Components, pages, styles
+   │   ├── index.html
+   │   └── package.json
+   ├── assets/                 # Logos, banners, images (create this folder)
+   ├── diagrams/               # Architecture diagrams (create when needed)
+   ├── screenshots/            # UI snapshots for README
+   ├── .gitignore
+   └── README.md               # ← You are here
 
 
 ## Architecture
