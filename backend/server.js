@@ -9,7 +9,12 @@ import llmRoutes from "./routes/llmRoutes.js";
 connectDB();
 
 const app = express();
-app.use(cors());
+const allowedOrigin = process.env.FRONTEND_URL;
+
+app.use(cors({
+    origin: allowedOrigin,
+    methods: ["GET", "POST", "DELETE"]
+}));
 app.use(express.json());
 
 app.use("/api/image", imageRoutes);
